@@ -1,4 +1,6 @@
-FROM ubuntu:latest
+FROM alpine:latest
+
+RUN aspk add --no-cache bash
 
 WORKDIR /script
 
