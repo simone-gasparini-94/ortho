@@ -19,6 +19,3 @@ Run this command replacing `ClassName` with the class name:
 ```bash
 docker run --rm -v "$(pwd)":/script
 sgasparini/ortho ClassName
-
-
-
