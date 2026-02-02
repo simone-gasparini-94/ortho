@@ -6,12 +6,6 @@ The script will generate in the current working directory 2 files:
 - `.hpp` file with the class definition
 - `.cpp` file with the function definitions
 
-The Orthodox Canonical Form involves defining:
-- Default Constructor
-- Copy Constructor
-- Assignment Operator
-- Destructor
-
 For more information about OCF, [click me](https://riceset.com/C++/The-Orthodox-Canonical-Class-Form).
 
 ## How to run
