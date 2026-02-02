@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-RUN aspk add --no-cache bash
+RUN apk add --no-cache bash
 
 WORKDIR /script
 
