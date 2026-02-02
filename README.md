@@ -16,7 +16,8 @@ For more information about OCF, [click me](https://riceset.com/C++/The-Orthodox-
 
 Run this command replacing `<ClassName>` with the class name:
 
-`docker run --rm -v "$(pwd)":/script sgasparini/ortho <ClassName>`
+```bash
+docker run --rm -v "$(pwd)":/script sgasparini/ortho <ClassName>
 
 
 
