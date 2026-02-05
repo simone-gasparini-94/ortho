@@ -12,7 +12,7 @@ For more information about OCF, [click me](https://riceset.com/C++/The-Orthodox-
 
 **Note: This tool requires [Docker](https://www.docker.com/)**
 
-### MacOS ARM64
+### ARM Architecture
 
 Run this command replacing `ClassName` with the class name:
 
@@ -20,7 +20,7 @@ Run this command replacing `ClassName` with the class name:
 docker run --rm -v "$(pwd)":/script sgasparini/ortho ClassName
 ```
 
-### All OS
+### x86_64 Architecture
 
 ```bash
 git clone https://github.com/simone-gasparini-94/ortho.git
